@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Rasika Bhalerao"
+title: "Zhifan Xu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - about.html
 ---
 
-I am a PhD student in computer science at NYU working with Professor [Damon McCoy](http://damonmccoy.com). 
-I am interested in cybercrime, natural language processing, machine learning, and teaching. She/her.
+I am a PhD candidate in industrial and systems engineering at Rutgers University working with Professor [Melike Baykal-Gursoy](http://gursoy.rutgers.edu/). 
+I am a member of the Game Research for Infrastructure SecuriTy (GRIST) Lab. I am interested in using optimization, game theory and machine learning approaches to solve syber-secuirty and public security problems.
 
-<img src="/images/bhalerao.jpg" width="200">
+<img src="/images/zhifanxu.jpg" width="300">
