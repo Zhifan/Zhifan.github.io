@@ -9,6 +9,6 @@ redirect_from:
 ---
 
 I am a PhD candidate in industrial and systems engineering at Rutgers University working with Professor [Melike Baykal-Gursoy](http://gursoy.rutgers.edu/). 
-I am a member of the Game Research for Infrastructure SecuriTy (GRIST) Lab. I am interested in using optimization, game theory and machine learning approaches to solve syber-secuirty and public security problems.
+I am a member of the Game Research for Infrastructure SecuriTy (GRIST) Lab. I am interested in using optimization, game theory and machine learning approaches to solve cyber-secuirty and public security problems.
 
 <img src="/images/zhifanxu.jpg" width="300">
