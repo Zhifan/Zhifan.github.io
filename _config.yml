@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rasika Bhalerao"
+title                    : "Zhifan Xu"
 title_separator          : "-"
-name                     : &name "Rasika Bhalerao"
-description              : &description "I am a PhD student in computer science at NYU working with Professor Damon McCoy. I am interested in cybercrime, natural language processing, machine learning, and teaching. She/her."
-url                      : https://rasikabh.github.io/
+name                     : &name "Zhifan Xu"
+description              : &description "I am a PhD student in Industrial & Systems Engineering at Ruthers University working with Professor Melike Baykal-Gursoy. I am interested in optimization, game theory and machine learning for cyber-security and public security."
+url                      : https://zhifan.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rasikabh/rasikabh.github.io"
+repository               : "zhifan/zhifan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rasika Bhalerao"
-  avatar           : "bhalerao.jpg"
-  bio              : "PhD student in computer science at NYU working with Professor Damon McCoy. Interested in cybercrime, natural language processing, machine learning, and teaching. She/her"
-  location         : "rasikabh @ gmail.com"
-  employer         : "New York University"
+  name             : "Zhifan Xu"
+  avatar           : "zhifanxu.jpg"
+  bio              : "PhD student in Industrial & Systems Engineering at Ruthers University working with Professor Melike Baykal-Gursoy."
+  location         : "zhifan.xu @ rutgers.edu"
+  employer         : "Rutgers University"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=c1JotdAAAAAJ&hl=en"
   researchgate     :  "https://www.researchgate.net/profile/Rasika_Bhalerao"
@@ -95,9 +95,9 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rasikabh"
+  github           : "zhifan"
   google_plus      :
-  keybase          : "rasikabh"
+  keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
